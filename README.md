@@ -1,0 +1,1 @@
+Nova is a Python-based desktop voice assistant that responds to natural speech commands and automates tasks such as opening websites, playing music, controlling system volume, fetching weather updates, and more.
